@@ -14,7 +14,7 @@ J'habite donc [Clermont-Ferrand](ma-ville.md), une ville du **centre de la Franc
 
 ---
 
-[Clermont-Ferrand](ma-ville.md) | [Puy-de-Dôme](mon-departement.md) | [Auvergne-Rhône-Alpes](ma-region.md)
+[Clermont-Ferrand](ma-ville.md) | [Puy-de-Dôme](mon-departement.md) | [Auvergne-Rhône-Alpes](ma-region.md) | [Page d'acceuil](../Index.md)
 
 ---
 

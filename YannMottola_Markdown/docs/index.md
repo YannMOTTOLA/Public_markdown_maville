@@ -12,6 +12,8 @@ Vous pouvez cliquer sur le lien qui vous intéréresse, bonne lecture !
 
 [ma région](ma-region.md)
 
+[Page d'acceuil](../Index.md)
+
 ---
 
 Fait avec ❤️ par _Yann MOTTOLA_
