@@ -37,7 +37,8 @@ C’est un lieu de vie, un lieu de lien.
 
 ## 📸 Une image de Saint-Pierre
 
-![Marché Saint-Pierre](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Saint-Pierre_-_Le_port.jpg/800px-Saint-Pierre_-_Le_port.jpg)
+![Marché Saint-Pierre](images/marche_de_saint_pierre_ile_de_la_reunion_saint_pierre-266746520.jpg)
+![Artisanat réunionnais](images/artisanat-réunion-3241510676.jpg)
 
 ---
 
