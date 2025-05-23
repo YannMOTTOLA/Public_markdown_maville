@@ -12,7 +12,7 @@ Vous pouvez cliquer sur le lien qui vous intéréresse, bonne lecture !
 
 [ma région](ma-region.md)
 
-[Page d'acceuil](../../Acceuil.md)
+[Page d'acceuil](../../README.md)
 
 ---
 
