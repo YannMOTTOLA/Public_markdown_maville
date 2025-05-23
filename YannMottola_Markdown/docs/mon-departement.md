@@ -8,7 +8,7 @@ Le Vaucluse, département du sud-est de la France, s’étend entre plaines agri
 
 C’est un territoire profondément rural, mais vivant, où se mêlent traditions agricoles et richesse patrimoniale. On y trouve des cultures de **lavande, cerises, vignes, oliviers et truffes**, selon les saisons et les terroirs. Les marchés hebdomadaires, les fêtes locales et les savoir-faire anciens rythment encore la vie quotidienne de nombreuses communes.
 
-**Les champs de lavade du vaucluse**
+**Les champs de lavande du vaucluse**
 ![Lavende](https://ririoulabellevie.com/plus-beaux-spots-lavande-vaucluse/blog-lavande-oppede-onmetlesvoiles-4/)
 
 **Photo du marché flottant de l'isle-sur-la-sorgue**
