@@ -1,9 +1,19 @@
-# Ma ville, ma région
+# Bienvenue Voyageur 👋🏽
 
-Bienvenue dans ce mini-site où je vais vous décrire ma ville, son département et sa région.
+Ce mini-site ne vous proposera **PAS** une présentation rapide de mon environnement local car nous sommes plusieurs *Copenhague* à habiter autour de la sublime ville de **Lyon**
 
-_A vous de jouer_
+En revanche c'est avec grand plaisir que je vous presenterai mes origines, nous irons au fur et à mesure au but, vous passerez par la region, puis le departement. 🤗
+
+Que vous soyez curieux, habitant, ou simplement de passage, ce site est fait pour vous donner un aperçu complet et agréable de notre belle FRANCE.
 
 ---
+Attachez votre ceinture, nous décollons !🛫
 
-Fait avec ❤️ par _xxx_
+(prévoyez la crème solaire😉)
+
+## Accès aux différentes pages
+
+- 🌍 [Ma région](ma-region.md)
+- 🏞️ [Mon département](mon-departement.md)
+- 🏙️ [Ma ville](ma-ville.md)
+  
