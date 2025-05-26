@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ma ville, ma région, en local
 
 ## Objectifs
@@ -127,3 +128,18 @@ Complétez les pages, add/commit/push à chaque étape "utile", recommencez jusq
 Et si on créait un vrai site Web à partir de ces pages Markdown ?
 
 => [Ca se passe par ici](./README_BONUS.md)
+=======
+# Ma ville, ma région, en local (et en public !)
+Sur ce Repository, vous trouverez les markdown de la promo Copenhague d'O'clock ! 
+
+Enjoy !
+
+# Acceuil
+
+[Markdown de Yann MOTTOLA](YannMottola_Markdown/docs/index.md)
+
+[Markdown de François NOVAIS](FrancoisNovaisMD/index.md)
+
+[Markdown de LE BRUN Saoussane](LE-BRUN-Saoussane/docs/index.md)
+
+>>>>>>> 0fdba116d002bdfd6c5f940bdd9078f4b7e97d1e
