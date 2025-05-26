@@ -22,4 +22,4 @@ La région possède également des traces d’occupation humaine qui remontent �
 
 ---
 
-[Clique ici pour retourner à l'acceuil !](index.md)
+[Clique ici pour retourner à l'acceuil !](./index.md)

@@ -24,4 +24,4 @@ Au Moyen Âge, la seigneurie appartenait à la famille d'_Agoult_, puis aux év�
 
 ---
 
-[Clique ici pour retourner à l'acceuil !](index.md)
+[Clique ici pour retourner à l'acceuil !](./index.md)
