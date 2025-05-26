@@ -27,6 +27,7 @@ Je vous propose différents liens qui vous orienterons directement vers la page 
 - [La ville de La Rochelle](ma-ville.md)
 - [Le département de la Charente-Maritime](mon-département.md)
 - [La région Nouvelle-Aquitaine](ma-region.md)
+- [Page d'acceuil vers les autres Markdowns](../../../README.md)
 
 Bonne découverte !
 
